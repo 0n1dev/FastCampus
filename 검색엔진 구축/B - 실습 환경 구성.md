@@ -1,8 +1,5 @@
 # 실습 환경 구성
 
-https://darksharavim.tistory.com/560
-https://wedul.site/498
-
 ## ElasticSearch
 
 ```
